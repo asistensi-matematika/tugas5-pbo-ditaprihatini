@@ -1,0 +1,24 @@
+Buku ke : [1]
+Judul : Buku
+Pengarang : Dita Prihatini
+Jumlah Halaman : 300
+Jenis Buku : Fiksi
+
+Buku ke : [2]
+Judul : Buku
+Pengarang : Dita Prihatini
+Jumlah Halaman : 300
+Jenis Buku : Fiksi
+
+Buku ke : [3]
+Judul : Buku
+Pengarang : Dita Prihatini
+Jumlah Halaman : 300
+Jenis Buku : Non Fiksi
+
+Buku ke : [4]
+Judul : Mantap Djiwa
+Pengarang : Akuw
+Jumlah Halaman : 205
+Jenis Buku : Non Fiksi
+
